@@ -1,3 +1,6 @@
+---
+math: true
+---
 ## My post
 
 testing
