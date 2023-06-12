@@ -8,6 +8,7 @@
     "docs:preview": "vitepress preview"
   },
   "dependencies": {
+    "@mdit/plugin-katex": "^0.4.7",
     "vue": "^3.3.4"
   }
 }
